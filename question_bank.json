@@ -471,7 +471,7 @@
       "A": "Red, yellow, green",
       "B": "Red, green, yellow",
       "C": "Green, red, yellow",
-      "D": "Green, yellow, red1 2 3 4"
+      "D": "Green, yellow, red"
     },
     "answer": {
       "letter": "A",
@@ -771,7 +771,7 @@
       "A": "The bulbs on the sign are burned out",
       "B": "Drive with caution",
       "C": "Changes lanes immediately",
-      "D": "Tune your radio to a station that gives traffic updates \u2018"
+      "D": "Tune your radio to a station that gives traffic updates"
     },
     "answer": {
       "letter": "B",
@@ -938,7 +938,7 @@
     "id": "ch2-q054",
     "chapter": 2,
     "question_number": 54,
-    "question": "AT AN INTERSECTION CONTROLLED BY A STOP SIGN, IF YOU CAN\u2019T GET A GOOD VIEW OF CROSS-STREET TRAFFIC WHEN YOU STOP BEHIND THE WHITE TOP BAR PAINTED ON THE PAVEMENT, YOU SHOULD:",
+    "question": "AT AN INTERSECTION CONTROLLED BY A STOP SIGN, IF YOU CANT GET A GOOD VIEW OF CROSS-STREET TRAFFIC WHEN YOU STOP BEHIND THE WHITE TOP BAR PAINTED ON THE PAVEMENT, YOU SHOULD:",
     "choices": {
       "A": "Wait 5 seconds, then proceed.",
       "B": "Sound your horn before proceeding",
@@ -1013,13 +1013,13 @@
     "question_number": 58,
     "question": "WHICH OF THESE SIGNS MEANS THAT DRIVERS SHOULD KEEP TO THE RIGHT?",
     "choices": {
-      "A": "2",
-      "B": "1",
+      "A": "1",
+      "B": "2",
       "C": "3",
-      "D": "4 1 2 3 4 1 2 3 4"
+      "D": "4"
     },
     "answer": {
-      "letter": "A",
+      "letter": "B",
       "text": "2"
     },
     "images": [
@@ -1290,7 +1290,7 @@
     "choices": {
       "A": "Try to squeeze between the truck and curb to make a right turn",
       "B": "Apply your brakes until the truck has completed the turn",
-      "C": "Violate the \u201c4 \u2013 second\u201d following distance rule",
+      "C": "Violate the 4 second following distance rule",
       "D": "Honk your horn at the truck driver"
     },
     "answer": {
@@ -1777,23 +1777,23 @@
     "question_number": 47,
     "question": "IF SOMEONE IS DRIVING AGGRESSIVELY BEHIND YOU, YOU SHOULD:",
     "choices": {
-      "A": "Try to get out of the aggressive driver\u2019s way",
+      "A": "Try to get out of the aggressive drivers way",
       "B": "Stare at the driver as they are passing you",
       "C": "Speed up as they are passing you",
       "D": "Block the passing lane"
     },
     "answer": {
       "letter": "A",
-      "text": "Try to get out of the aggressive driver\u2019s way"
+      "text": "Try to get out of the aggressive drivers way"
     }
   },
   {
     "id": "ch3-q048",
     "chapter": 3,
     "question_number": 48,
-    "question": "FOR AN AVERAGE PERSON, HOW MANY MINUTES DOES THE BODY NEED TO PROCESS THE",
+    "question": "FOR AN AVERAGE PERSON, HOW MANY MINUTES DOES THE BODY NEED TO PROCESS THE ALCOHOL IN ONE DRINK? ",
     "choices": {
-      "A": "LCOHOL IN ONE DRINK? A. 15",
+      "A": "15",
       "B": "60",
       "C": "90",
       "D": "30"
@@ -1857,14 +1857,14 @@
     "question_number": 52,
     "question": "IF YOUR BLOOD ALCOHOL LEVEL IS .04, YOU:",
     "choices": {
-      "A": "Are 2 \u2013 7 times more likely to have a crash than a person who has not consumed any",
+      "A": "Are 2 - 7 times more likely to have a crash than a person who has not consumed any",
       "B": "Are above the legal blood alcohol limit but fine to drive",
       "C": "Can be very sure that you will drive safely",
       "D": "Should drink plenty of coffee before getting behind the wheel of your car"
     },
     "answer": {
       "letter": "A",
-      "text": "Are 2 \u2013 7 times more likely to have a crash than a person who has not consumed any"
+      "text": "Are 2 - 7 times more likely to have a crash than a person who has not consumed any"
     }
   },
   {
@@ -1986,13 +1986,13 @@
     "question": "WHEN DRIVING THROUGH A WORK ZONE, IT IS A GOOD SAFETY PRACTICE TO:",
     "choices": {
       "A": "Drive close to the vehicle in front of you to keep traffic flowing freely",
-      "B": "Shorten your usual following distance \u2014 by about half",
+      "B": "Shorten your usual following distance by about half",
       "C": "Turn on your cruise control",
-      "D": "Lengthen your usual following distance \u2014 by double"
+      "D": "Lengthen your usual following distance by double"
     },
     "answer": {
       "letter": "D",
-      "text": "Lengthen your usual following distance \u2014 by double"
+      "text": "Lengthen your usual following distance by double"
     }
   },
   {
@@ -2242,7 +2242,7 @@
     "id": "ch3-q076",
     "chapter": 3,
     "question_number": 76,
-    "question": "\u201cHIGHWAY HYPNOSIS\u201d IS A DRIVER CONDITION THAT CAN RESULT FROM:",
+    "question": "HIGHWAY HYPNOSIS IS A DRIVER CONDITION THAT CAN RESULT FROM:",
     "choices": {
       "A": "Staring at the roadway for long periods of time",
       "B": "Frequent rest stops",
@@ -2274,7 +2274,7 @@
     "id": "ch3-q078",
     "chapter": 3,
     "question_number": 78,
-    "question": "THE \u201cFOUR-SECOND RULE\u201d REFERS TO HOW ONE SHOULD:",
+    "question": "THE FOUR-SECOND RULE REFERS TO HOW ONE SHOULD:",
     "choices": {
       "A": "Yield to other cars",
       "B": "Turn at stop signs",
@@ -2482,7 +2482,7 @@
     "id": "ch3-q091",
     "chapter": 3,
     "question_number": 91,
-    "question": "WHAT CAN YOU DO TO AVOID THE NEED TO MAKE EMERGENCY (OR \u201cPANIC\u201d) STOPS WHILE DRIVING IN TRAFFIC?",
+    "question": "WHAT CAN YOU DO TO AVOID THE NEED TO MAKE EMERGENCY (OR PANIC) STOPS WHILE DRIVING IN TRAFFIC?",
     "choices": {
       "A": "Honk your horn to make others aware of your presence",
       "B": "Look ahead and maintain a safe following distance",
@@ -2818,16 +2818,16 @@
     "id": "ch4-q002",
     "chapter": 4,
     "question_number": 2,
-    "question": "PEOPLE UNDER 16 YEARS OF AGE WHO USE A FALSE IDENTIFICATION CARD TO BUY",
+    "question": "PEOPLE UNDER 16 YEARS OF AGE WHO USE A FALSE IDENTIFICATION CARD TO BUY ALCOHOL WILL:",
     "choices": {
-      "A": "LCOHOL WILL: A. Receive a driving suspension that starts on their 16th birthday",
-      "B": "Not be able to take the driver\u2019s exam until their 21st birthday",
+      "A": "Receive a driving suspension that starts on their 16th birthday",
+      "B": "Not be able to take the drivers exam until their 21st birthday",
       "C": "Receive a driving suspension that starts on their 21st birthday",
       "D": "Be sent to an alcohol safety education class"
     },
     "answer": {
       "letter": "A",
-      "text": "LCOHOL WILL: A. Receive a driving suspension that starts on their 16th birthday"
+      "text": "Receive a driving suspension that starts on their 16th birthday"
     }
   },
   {
@@ -2916,10 +2916,10 @@
     "question_number": 8,
     "question": "ONE OF THE PENALTIES FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL IS A(N):",
     "choices": {
-      "A": "5 \u2013 year driver\u2019s license suspension",
+      "A": "5 - year drivers license suspension",
       "B": "$100.00 fine",
       "C": "Attendance to Alcohol Highway Safety School",
-      "D": "12 \u2013 hour sentence in jail"
+      "D": "12 - hour sentence in jail"
     },
     "answer": {
       "letter": "C",
@@ -2930,16 +2930,16 @@
     "id": "ch4-q009",
     "chapter": 4,
     "question_number": 9,
-    "question": "IF YOU ARE ARRESTED FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL AND YOU REFUSE TO TAKE THE BLOOD TEST, YOU WILL RECIEVE A:",
+    "question": "IF YOU ARE ARRESTED FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL AND YOU REFUSE TO TAKE THE BLOOD TEST, YOU WILL RECEIVE A:",
     "choices": {
       "A": "Drug counseling treatment",
       "B": "Sentence of one day in jail",
-      "C": "Driver\u2019s License Suspension",
+      "C": "Drivers License Suspension",
       "D": "$300.00 fine"
     },
     "answer": {
       "letter": "C",
-      "text": "Driver\u2019s License Suspension"
+      "text": "Drivers License Suspension"
     }
   },
   {
@@ -2994,9 +2994,9 @@
     "id": "ch4-q013",
     "chapter": 4,
     "question_number": 13,
-    "question": "IF YOU ARE UNDER AGE 21 AND ARE CONVICTED OF DRIVING UNDER THE INFLUENCE OF",
+    "question": "IF YOU ARE UNDER AGE 21 AND ARE CONVICTED OF DRIVING UNDER THE INFLUENCE OF ALCOHOL, YOU WILL RECEIVE A ____ LICENSE SUSPENSION FOR A FIRST OFFENSE.",
     "choices": {
-      "A": "LCOHOL, YOU WILL RECEIVE A ____ LICENSE SUSPENSION FOR A FIRST OFFENSE. A. 60-Day",
+      "A": "60-Day",
       "B": "30-Day",
       "C": "6-Month",
       "D": "1-Year"
