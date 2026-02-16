@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <main class="container" id="quizApp">
+    <div class="topbar">
+      <div class="topbar-left">
+        <a href="index.html" class="link">← Home</a>
+        <button id="resetBtn" type="button" class="link danger">Reset</button>
+      </div>
+      <div class="topbar-right muted small">Version: <strong id="appVersion">…</strong></div>
+    </div>
+
+    <h1 id="title">Quiz</h1>
+    <p id="status" class="muted">Loading…</p>
+
+    <section id="questionCard" class="card">
+      <div class="meta" id="meta"></div>
+      <div class="question-images" id="questionImages" style="display:none;"></div>
+      <h2 class="question" id="questionText"></h2>
+
+      <div class="choices" id="choices"></div>
+
+      <div class="feedback" id="feedback" aria-live="polite"></div>
+
+      <div class="actions">
+        <button id="nextBtn" class="primary" style="display:none;">Next</button>
+      </div>
+    </section>
+
+    <section id="resultCard" class="card" style="display:none;">
+      <h2>Results</h2>
+      <p id="resultSummary"></p>
+
+      <div class="actions">
+        <button id="reviewBtn" class="primary" style="display:none;">Review missed questions</button>
+        <button id="reviewAgainBtn" class="primary" style="display:none;">Review again</button>
+        <a class="button" href="index.html">New quiz</a>
+      </div>
+    </section>
+
+    <section id="errorCard" class="card" style="display:none;">
+      <h2 class="danger">Error</h2>
+      <p id="errorText"></p>
+      <div class="actions">
+        <a class="button" href="index.html">Back to home</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Simple image zoom modal -->
+  <div id="imgModal" class="modal" style="display:none;" aria-hidden="true">
+    <div class="modal-backdrop" id="imgModalBackdrop"></div>
+    <div class="modal-content" role="dialog" aria-modal="true" aria-label="Enlarged question image">
+      <button id="imgModalClose" class="modal-close" type="button" aria-label="Close">✕</button>
+      <img id="imgModalImg" alt="Question image enlarged" />
+    </div>
+  </div>
+
+  <script src="static/app.js"></script>
+</body>
+</html>

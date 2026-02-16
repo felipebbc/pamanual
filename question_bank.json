@@ -1,0 +1,3057 @@
+[
+  {
+    "id": "ch2-q001",
+    "chapter": 2,
+    "question_number": 1,
+    "question": "WHEN YOU SEE THIS SIGN, YOU MUST:",
+    "choices": {
+      "A": "Stop completely, check for pedestrians, and cross traffic",
+      "B": "Slow down without coming to a complete stop",
+      "C": "Stop completely and wait for a green light",
+      "D": "Slow down and check for traffic"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Stop completely, check for pedestrians, and cross traffic"
+    },
+    "images": [
+      "question_images/ch2-q001.png"
+    ]
+  },
+  {
+    "id": "ch2-q002",
+    "chapter": 2,
+    "question_number": 2,
+    "question": "THIS IS THE SHAPE AND COLOR OF A __________ SIGN.",
+    "choices": {
+      "A": "Stop",
+      "B": "Wrong Way",
+      "C": "Yield",
+      "D": "Do not enter"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Yield"
+    },
+    "images": [
+      "question_images/ch2-q002.png"
+    ]
+  },
+  {
+    "id": "ch2-q003",
+    "chapter": 2,
+    "question_number": 3,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "Stop",
+      "B": "No U-Turn",
+      "C": "Yield",
+      "D": "Do not enter"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Do not enter"
+    },
+    "images": [
+      "question_images/ch2-q003.png"
+    ]
+  },
+  {
+    "id": "ch2-q004",
+    "chapter": 2,
+    "question_number": 4,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "No U-Turn",
+      "B": "No Turning",
+      "C": "No left turn",
+      "D": "No right turn"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "No U-Turn"
+    },
+    "images": [
+      "question_images/ch2-q004.png"
+    ]
+  },
+  {
+    "id": "ch2-q005",
+    "chapter": 2,
+    "question_number": 5,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "No U-Turn",
+      "B": "No left turn",
+      "C": "No right turn",
+      "D": "No turning"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "No right turn"
+    },
+    "images": [
+      "question_images/ch2-q005.png"
+    ]
+  },
+  {
+    "id": "ch2-q006",
+    "chapter": 2,
+    "question_number": 6,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "You must turn left or right",
+      "B": "You are approaching a T-intersection",
+      "C": "The road that you are on intersects with a divided highway",
+      "D": "Designates an overpass above a divided highway"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "The road that you are on intersects with a divided highway"
+    },
+    "images": [
+      "question_images/ch2-q006.png"
+    ]
+  },
+  {
+    "id": "ch2-q007",
+    "chapter": 2,
+    "question_number": 7,
+    "question": "YOU NEED TO USE EXTRA CAUTION WHEN DRIVING NEAR A PEDESTRIAN USING A WHITE CANE BECAUSE:",
+    "choices": {
+      "A": "They are deaf",
+      "B": "They have a mental disability",
+      "C": "They are blind",
+      "D": "They have a walking problem"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "They are blind"
+    }
+  },
+  {
+    "id": "ch2-q008",
+    "chapter": 2,
+    "question_number": 8,
+    "question": "WHEN DRIVING NEAR A BLIND PEDESTRIAN WHO IS CARRYING A WHITE CANE OR USING A GUIDE DOG, YOU SHOULD:",
+    "choices": {
+      "A": "Slow down and be prepared to stop",
+      "B": "Take the right-of-way",
+      "C": "Proceed normally",
+      "D": "Drive away quickly DIVIDED HIGHWAY"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slow down and be prepared to stop"
+    }
+  },
+  {
+    "id": "ch2-q009",
+    "chapter": 2,
+    "question_number": 9,
+    "question": "IF THERE ARE NO SIGNALS AT A RAILROAD CROSSING, YOU SHOULD:",
+    "choices": {
+      "A": "Slow down and prepare to stop if you see or hear a train approaching",
+      "B": "Proceed as quickly as possible over the tracks",
+      "C": "Proceed through the crossing at a normal rate",
+      "D": "Proceed slowly over the tracks"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slow down and prepare to stop if you see or hear a train approaching"
+    },
+    "images": [
+      "question_images/ch2-q009.png"
+    ]
+  },
+  {
+    "id": "ch2-q010",
+    "chapter": 2,
+    "question_number": 10,
+    "question": "YOU MAY DRIVE AROUND THE GATES AT A RAILROAD CROSSING:",
+    "choices": {
+      "A": "When the train has passed",
+      "B": "Never",
+      "C": "When the lights have stopped flashing",
+      "D": "When other drivers drive around the gates"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Never"
+    }
+  },
+  {
+    "id": "ch2-q011",
+    "chapter": 2,
+    "question_number": 11,
+    "question": "IF YOU SEE THIS SIGN ABOVE YOUR LANE, YOU:",
+    "choices": {
+      "A": "May not exit the freeway in this lane",
+      "B": "May continue through the interchange or exit the freeway in this lane",
+      "C": "May stay in this lane and continue through the interchange",
+      "D": "Must exit the freeway if you stay in this lane"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Must exit the freeway if you stay in this lane"
+    },
+    "images": [
+      "question_images/ch2-q011.png"
+    ]
+  },
+  {
+    "id": "ch2-q012",
+    "chapter": 2,
+    "question_number": 12,
+    "question": "HIGHWAY AND EXPRESSWAY GUIDE SIGNS ARE:",
+    "choices": {
+      "A": "Orange with black letters",
+      "B": "Green with white letters",
+      "C": "Yellow with black letters",
+      "D": "Red with white letters"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Green with white letters"
+    }
+  },
+  {
+    "id": "ch2-q013",
+    "chapter": 2,
+    "question_number": 13,
+    "question": "THIS SIGN IS USED TO WARN DRIVERS ABOUT:",
+    "choices": {
+      "A": "Upcoming intersections",
+      "B": "Road construction",
+      "C": "Road curves ahead",
+      "D": "Changes in traffic lanes"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Road curves ahead"
+    },
+    "images": [
+      "question_images/ch2-q013.png"
+    ]
+  },
+  {
+    "id": "ch2-q014",
+    "chapter": 2,
+    "question_number": 14,
+    "question": "THIS SIGN TELLS YOU THAT:",
+    "choices": {
+      "A": "No turns are allowed on this road",
+      "B": "The road narrows ahead",
+      "C": "There are a series of curves ahead",
+      "D": "The road may be slippery when wet"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "There are a series of curves ahead"
+    },
+    "images": [
+      "question_images/ch2-q014.png"
+    ]
+  },
+  {
+    "id": "ch2-q015",
+    "chapter": 2,
+    "question_number": 15,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "Left curve ahead",
+      "B": "Series of curves",
+      "C": "S curved ahead",
+      "D": "Slippery when wet"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Slippery when wet"
+    },
+    "images": [
+      "question_images/ch2-q015.png"
+    ]
+  },
+  {
+    "id": "ch2-q016",
+    "chapter": 2,
+    "question_number": 16,
+    "question": "THIS SIGN INDICATES THAT:",
+    "choices": {
+      "A": "There is a steep hill ahead",
+      "B": "No trucks are allowed on the hill",
+      "C": "A logging road is ahead",
+      "D": "There are trucks on the hill"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "There is a steep hill ahead"
+    },
+    "images": [
+      "question_images/ch2-q016.png"
+    ]
+  },
+  {
+    "id": "ch2-q017",
+    "chapter": 2,
+    "question_number": 17,
+    "question": "A YELLOW AND BLACK DIAMOND-SHAPED SIGN:",
+    "choices": {
+      "A": "Warns you about conditions on or near the road",
+      "B": "Helps direct you to cities and towns ahead",
+      "C": "Tells you about traffic laws and regulations",
+      "D": "Tells you about road construction ahead"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Warns you about conditions on or near the road"
+    },
+    "images": [
+      "question_images/ch2-q017.png"
+    ]
+  },
+  {
+    "id": "ch2-q018",
+    "chapter": 2,
+    "question_number": 18,
+    "question": "THE SIGN WITH THIS SHAPE AND COLOR IS A _____________ SIGN.",
+    "choices": {
+      "A": "No passing zone",
+      "B": "Wrong way",
+      "C": "Railroad crossing",
+      "D": "Stop"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "No passing zone"
+    },
+    "images": [
+      "question_images/ch2-q018.png"
+    ]
+  },
+  {
+    "id": "ch2-q019",
+    "chapter": 2,
+    "question_number": 19,
+    "question": "WHICH OF THESE SIGNS IS USED TO SHOW THE END OF A DIVIDED HIGHWAY?",
+    "choices": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "1"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2"
+    },
+    "images": [
+      "question_images/ch2-q019.png"
+    ]
+  },
+  {
+    "id": "ch2-q020",
+    "chapter": 2,
+    "question_number": 20,
+    "question": "THIS SIGN IS USED TO WARN DRIVERS ABOUT:",
+    "choices": {
+      "A": "Lane ends, merge left",
+      "B": "Road curves ahead",
+      "C": "Upcoming intersections",
+      "D": "Road construction"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Lane ends, merge left"
+    },
+    "images": [
+      "question_images/ch2-q020.png"
+    ]
+  },
+  {
+    "id": "ch2-q021",
+    "chapter": 2,
+    "question_number": 21,
+    "question": "THIS SIGN SHOWS ONE TYPE OF:",
+    "choices": {
+      "A": "Intersection",
+      "B": "Road curve",
+      "C": "Right turn",
+      "D": "Lane change"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Intersection"
+    },
+    "images": [
+      "question_images/ch2-q021.png"
+    ]
+  },
+  {
+    "id": "ch2-q022",
+    "chapter": 2,
+    "question_number": 22,
+    "question": "THIS SIGN SHOWS ONE TYPE OF:",
+    "choices": {
+      "A": "Right turn",
+      "B": "Intersection",
+      "C": "Lane change",
+      "D": "Road curve"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Intersection"
+    },
+    "images": [
+      "question_images/ch2-q022.png"
+    ]
+  },
+  {
+    "id": "ch2-q023",
+    "chapter": 2,
+    "question_number": 23,
+    "question": "WHAT SHOULD YOU BE MOST CONCERNED ABOUT WHEN YOU SEE THIS SIGN?",
+    "choices": {
+      "A": "Driving with your headlights out of alignment because one side of your car is higher than the other",
+      "B": "Damaging a tire, if you drift onto the shoulder",
+      "C": "Hydroplaning, if the shoulder has water on it",
+      "D": "Losing control of your vehicle, if you drift onto the shoulder, because of a drop off"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Losing control of your vehicle, if you drift onto the shoulder, because of a drop off"
+    },
+    "images": [
+      "question_images/ch2-q023.png"
+    ]
+  },
+  {
+    "id": "ch2-q024",
+    "chapter": 2,
+    "question_number": 24,
+    "question": "WHAT IS THE MEANING OF THIS SIGN?",
+    "choices": {
+      "A": "The traffic signal ahead is red",
+      "B": "The traffic signal ahead is broken",
+      "C": "The traffic signal ahead is green",
+      "D": "There is a traffic signal ahead"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "There is a traffic signal ahead"
+    },
+    "images": [
+      "question_images/ch2-q024.png"
+    ]
+  },
+  {
+    "id": "ch2-q025",
+    "chapter": 2,
+    "question_number": 25,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "Divided highway ends",
+      "B": "One-way street begins",
+      "C": "One-way street ends",
+      "D": "Divided highway begins"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Divided highway begins"
+    },
+    "images": [
+      "question_images/ch2-q025.png"
+    ]
+  },
+  {
+    "id": "ch2-q026",
+    "chapter": 2,
+    "question_number": 26,
+    "question": "FROM TOP TO BOTTOM, THE FOLLOWING IS THE PROPER ORDER FOR TRAFFIC LIGHTS:",
+    "choices": {
+      "A": "Red, yellow, green",
+      "B": "Red, green, yellow",
+      "C": "Green, red, yellow",
+      "D": "Green, yellow, red1 2 3 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Red, yellow, green"
+    },
+    "images": [
+      "question_images/ch2-q026.png"
+    ]
+  },
+  {
+    "id": "ch2-q027",
+    "chapter": 2,
+    "question_number": 27,
+    "question": "IF A GREEN ARROW TURNS INTO A GREEN LIGHT, YOU:",
+    "choices": {
+      "A": "May still turn but you must yield to oncoming traffic",
+      "B": "May no longer turn and must proceed straight",
+      "C": "Still have the right of way to turn",
+      "D": "No longer have to turn the way the arrow indicates"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "May still turn but you must yield to oncoming traffic"
+    }
+  },
+  {
+    "id": "ch2-q028",
+    "chapter": 2,
+    "question_number": 28,
+    "question": "A STEADY YELLOW LIGHT AT AN INTERSECTION MEANS:",
+    "choices": {
+      "A": "Go",
+      "B": "Yield to other cars",
+      "C": "Slow down and prepare to stop",
+      "D": "Stop"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Slow down and prepare to stop"
+    }
+  },
+  {
+    "id": "ch2-q029",
+    "chapter": 2,
+    "question_number": 29,
+    "question": "A FLASHING YELLOW ARROW MEANS THAT YOU:",
+    "choices": {
+      "A": "Should stop and proceed with the turn when a green arrow appears",
+      "B": "Should slow down and prepare to stop",
+      "C": "May turn, but must first yield to oncoming traffic and pedestrians",
+      "D": "Have the right of way to turn"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "May turn, but must first yield to oncoming traffic and pedestrians"
+    }
+  },
+  {
+    "id": "ch2-q030",
+    "chapter": 2,
+    "question_number": 30,
+    "question": "A FLASHING YELLOW LIGHT MEANS THAT YOU SHOULD:",
+    "choices": {
+      "A": "Slow down and proceed with care",
+      "B": "Continue through if the way is clear",
+      "C": "Stop and proceed when a green light appears",
+      "D": "Stop and proceed when the way is clear"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slow down and proceed with care"
+    }
+  },
+  {
+    "id": "ch2-q031",
+    "chapter": 2,
+    "question_number": 31,
+    "question": "YOU MUST STOP WHEN YOU SEE A:",
+    "choices": {
+      "A": "Flashing red light",
+      "B": "Steady yellow light",
+      "C": "Yellow arrow",
+      "D": "Flashing yellow light"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Flashing red light"
+    }
+  },
+  {
+    "id": "ch2-q032",
+    "chapter": 2,
+    "question_number": 32,
+    "question": "A STEADY GREEN LIGHT AT AN INTERSECTION MEANS THAT YOU:",
+    "choices": {
+      "A": "Must slow down and prepare to stop",
+      "B": "Must stop and check for oncoming traffic before proceeding",
+      "C": "May drive through the intersection if the road is clear",
+      "D": "May not turn right"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "May drive through the intersection if the road is clear"
+    }
+  },
+  {
+    "id": "ch2-q033",
+    "chapter": 2,
+    "question_number": 33,
+    "question": "A STEADY YELLOW LIGHT MEANS THAT A _______ LIGHT WILL SOON APPEAR.",
+    "choices": {
+      "A": "Flashing yellow",
+      "B": "Steady green",
+      "C": "Steady red",
+      "D": "Flashing red"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Steady red"
+    }
+  },
+  {
+    "id": "ch2-q034",
+    "chapter": 2,
+    "question_number": 34,
+    "question": "YOU MAY CONTINUE CAREFULLY THROUGH A YELLOW LIGHT IF:",
+    "choices": {
+      "A": "There is an emergency vehicle crossing your lane",
+      "B": "There are no pedestrians crossing",
+      "C": "You are turning right",
+      "D": "You are within the intersection"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "You are within the intersection"
+    }
+  },
+  {
+    "id": "ch2-q035",
+    "chapter": 2,
+    "question_number": 35,
+    "question": "YOU MAY TURN LEFT AT A RED LIGHT IF:",
+    "choices": {
+      "A": "There is no traffic coming in the opposite direction",
+      "B": "You are turning from a two-way street onto a one-way street",
+      "C": "You are turning from a one-way street onto another one-way street",
+      "D": "The car in front of you turns left"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "You are turning from a one-way street onto another one-way street"
+    }
+  },
+  {
+    "id": "ch2-q036",
+    "chapter": 2,
+    "question_number": 36,
+    "question": "IF A TRAFFIC LIGHT IS BROKEN OR NOT FUNCTIONING YOU SHOULD:",
+    "choices": {
+      "A": "Stop and wait for it to be repaired",
+      "B": "Stop and wait for a police officer to arrive",
+      "C": "Continue as if it were a four-way stop sign",
+      "D": "Continue as you normally would"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Continue as if it were a four-way stop sign"
+    }
+  },
+  {
+    "id": "ch2-q037",
+    "chapter": 2,
+    "question_number": 37,
+    "question": "YOU MAY TURN RIGHT ON RED IF YOU:",
+    "choices": {
+      "A": "Stop first and check for traffic and pedestrians",
+      "B": "Have a right turn red arrow",
+      "C": "Are in the left lane",
+      "D": "Slow down first"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Stop first and check for traffic and pedestrians"
+    }
+  },
+  {
+    "id": "ch2-q038",
+    "chapter": 2,
+    "question_number": 38,
+    "question": "WHEN MAKING A RIGHT TURN ON A GREEN LIGHT, YOU MUST:",
+    "choices": {
+      "A": "Maintain normal driving speed",
+      "B": "Stop and look for oncoming traffic",
+      "C": "Yield to pedestrians",
+      "D": "Increase your normal driving speed"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Yield to pedestrians"
+    }
+  },
+  {
+    "id": "ch2-q039",
+    "chapter": 2,
+    "question_number": 39,
+    "question": "THE SPEED LIMIT IS _______ MILES PER HOUR WHEN THE YELLOW LIGHTS ARE FLASHING ON THE SCHOOL ZONE SPEED SIGN.",
+    "choices": {
+      "A": "25",
+      "B": "15",
+      "C": "20",
+      "D": "35"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "15"
+    }
+  },
+  {
+    "id": "ch2-q040",
+    "chapter": 2,
+    "question_number": 40,
+    "question": "A FLASHING RED LIGHT AT A RAILROAD CROSSING MEANS:",
+    "choices": {
+      "A": "Stop, do not proceed until signals are completed",
+      "B": "Slow down and proceed if clear",
+      "C": "Proceed with caution",
+      "D": "You have the right-of-way"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Stop, do not proceed until signals are completed"
+    }
+  },
+  {
+    "id": "ch2-q041",
+    "chapter": 2,
+    "question_number": 41,
+    "question": "THIS GREEN ARROW ON A LANE USE CONTROL SIGNAL MEANS THAT:",
+    "choices": {
+      "A": "You may use this lane",
+      "B": "No traffic is allowed in this lane",
+      "C": "You have the right-of-way",
+      "D": "You must merge into this lane"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "You may use this lane"
+    },
+    "images": [
+      "question_images/ch2-q041.png"
+    ]
+  },
+  {
+    "id": "ch2-q042",
+    "chapter": 2,
+    "question_number": 42,
+    "question": "THIS SIGN MEANS:",
+    "choices": {
+      "A": "Pedestrians ahead",
+      "B": "End of construction zone",
+      "C": "School crossing ahead",
+      "D": "Flagger ahead"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Flagger ahead"
+    },
+    "images": [
+      "question_images/ch2-q042.png"
+    ]
+  },
+  {
+    "id": "ch2-q043",
+    "chapter": 2,
+    "question_number": 43,
+    "question": "THIS SIGN MEANS THAT:",
+    "choices": {
+      "A": "A community service group is picking up trash along the highway ahead",
+      "B": "Workers are on or very close to the road in the work zone ahead",
+      "C": "Children are at play ahead",
+      "D": "There is a pedestrian crosswalk ahead"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Workers are on or very close to the road in the work zone ahead"
+    },
+    "images": [
+      "question_images/ch2-q043.png"
+    ]
+  },
+  {
+    "id": "ch2-q044",
+    "chapter": 2,
+    "question_number": 44,
+    "question": "WHEN AN ARROW PANEL IN A WORK ZONE SHOWS EITHER OF THE FOLLOWING PATTERNS, IT MEANS:",
+    "choices": {
+      "A": "The bulbs on the sign are burned out",
+      "B": "Drive with caution",
+      "C": "Changes lanes immediately",
+      "D": "Tune your radio to a station that gives traffic updates \u2018"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Drive with caution"
+    },
+    "images": [
+      "question_images/ch2-q044.png"
+    ]
+  },
+  {
+    "id": "ch2-q045",
+    "chapter": 2,
+    "question_number": 45,
+    "question": "THE CENTER LANE IN THE ILLUSTRATION IS USED FOR:",
+    "choices": {
+      "A": "Regular travel",
+      "B": "Left turns only",
+      "C": "Passing only",
+      "D": "Emergency vehicles only"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Left turns only"
+    },
+    "images": [
+      "question_images/ch2-q045.png"
+    ]
+  },
+  {
+    "id": "ch2-q046",
+    "chapter": 2,
+    "question_number": 46,
+    "question": "YOU MAY PASS IF THE LINE DIVIDING TWO LANES IS A ___________ LINE.",
+    "choices": {
+      "A": "Broken white",
+      "B": "Double solid yellow",
+      "C": "Solid yellow",
+      "D": "Solid white"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Broken white"
+    }
+  },
+  {
+    "id": "ch2-q047",
+    "chapter": 2,
+    "question_number": 47,
+    "question": "LANES OF TRAFFIC MOVING IN THE SAME DIRECTION ARE DIVIDED BY ____ LINES.",
+    "choices": {
+      "A": "Yellow",
+      "B": "White",
+      "C": "Red",
+      "D": "Black"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "White"
+    }
+  },
+  {
+    "id": "ch2-q048",
+    "chapter": 2,
+    "question_number": 48,
+    "question": "YOU MAY NOT PASS ANOTHER CAR ON EITHER SIDE OF A _______ CENTERLINE.",
+    "choices": {
+      "A": "Combination solid and broken yellow",
+      "B": "Single broken yellow",
+      "C": "Double solid yellow",
+      "D": "Single broken white"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Double solid yellow"
+    }
+  },
+  {
+    "id": "ch2-q049",
+    "chapter": 2,
+    "question_number": 49,
+    "question": "YOU MAY CROSS SOLID YELLOW LINES:",
+    "choices": {
+      "A": "To pass traffic moving in the same direction",
+      "B": "During daylight hours only",
+      "C": "At any time",
+      "D": "When making turns"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "When making turns"
+    }
+  },
+  {
+    "id": "ch2-q050",
+    "chapter": 2,
+    "question_number": 50,
+    "question": "THE ROAD EDGE ON THE RIGHT SIDE IS MARKED BY A ___________ LINE.",
+    "choices": {
+      "A": "Broken white",
+      "B": "Solid yellow",
+      "C": "Solid white",
+      "D": "Broken yellow audio"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Solid white"
+    }
+  },
+  {
+    "id": "ch2-q051",
+    "chapter": 2,
+    "question_number": 51,
+    "question": "LANES OF TRAFFIC MOVING IN THE OPPOSITE DIRECTION ARE DIVIDED BY ____ LINES.",
+    "choices": {
+      "A": "White",
+      "B": "Red",
+      "C": "Black",
+      "D": "Yellow"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Yellow"
+    }
+  },
+  {
+    "id": "ch2-q052",
+    "chapter": 2,
+    "question_number": 52,
+    "question": "WHEN YOU SEE THIS BLACK AND YELLOW SIGN, IT MEANS:",
+    "choices": {
+      "A": "The road to the right is for one-way traffic only",
+      "B": "Detour to the right because of road construction",
+      "C": "Slow down because the road ahead changes direction at an extreme angle",
+      "D": "There is a cross road ahead on your right"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Slow down because the road ahead changes direction at an extreme angle"
+    },
+    "images": [
+      "question_images/ch2-q052.png"
+    ]
+  },
+  {
+    "id": "ch2-q053",
+    "chapter": 2,
+    "question_number": 53,
+    "question": "WHEN YOU SEE THIS SIGN, IT MEANS:",
+    "choices": {
+      "A": "There is an object on the roadway",
+      "B": "Traffic is coming from the right",
+      "C": "The road is curving sharply to the left",
+      "D": "There is a merge point ahead"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "The road is curving sharply to the left"
+    },
+    "images": [
+      "question_images/ch2-q053.png"
+    ]
+  },
+  {
+    "id": "ch2-q054",
+    "chapter": 2,
+    "question_number": 54,
+    "question": "AT AN INTERSECTION CONTROLLED BY A STOP SIGN, IF YOU CAN\u2019T GET A GOOD VIEW OF CROSS-STREET TRAFFIC WHEN YOU STOP BEHIND THE WHITE TOP BAR PAINTED ON THE PAVEMENT, YOU SHOULD:",
+    "choices": {
+      "A": "Wait 5 seconds, then proceed.",
+      "B": "Sound your horn before proceeding",
+      "C": "Put down your windows, listen for traffic, and then proceed",
+      "D": "Pull forward slowly, check for traffic and pedestrians, and proceed when clear"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Pull forward slowly, check for traffic and pedestrians, and proceed when clear"
+    }
+  },
+  {
+    "id": "ch2-q055",
+    "chapter": 2,
+    "question_number": 55,
+    "question": "THE POSTED SPEED LIMITS SHOW:",
+    "choices": {
+      "A": "The minimum legal speed limit",
+      "B": "The exact speed at which you must travel to avoid a ticket",
+      "C": "The maximum safe speed under ideal road and weather conditions",
+      "D": "The maximum safe speed under all road conditions"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "The maximum safe speed under ideal road and weather conditions"
+    },
+    "images": [
+      "question_images/ch2-q055.png"
+    ]
+  },
+  {
+    "id": "ch2-q056",
+    "chapter": 2,
+    "question_number": 56,
+    "question": "A HIGHWAY WITH TWO-WAY TRAFFIC IS MARKED BY WHICH OF THESE SIGNS?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "3"
+    },
+    "images": [
+      "question_images/ch2-q056.png"
+    ]
+  },
+  {
+    "id": "ch2-q057",
+    "chapter": 2,
+    "question_number": 57,
+    "question": "FROM THE CENTER LANE, WHAT MANEUVERS CAN YOU PERFORM?",
+    "choices": {
+      "A": "Make left turns",
+      "B": "Make U-turns",
+      "C": "Pass slower-moving traffic",
+      "D": "All of the above"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Make left turns"
+    },
+    "images": [
+      "question_images/ch2-q057.png"
+    ]
+  },
+  {
+    "id": "ch2-q058",
+    "chapter": 2,
+    "question_number": 58,
+    "question": "WHICH OF THESE SIGNS MEANS THAT DRIVERS SHOULD KEEP TO THE RIGHT?",
+    "choices": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "4 1 2 3 4 1 2 3 4"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "2"
+    },
+    "images": [
+      "question_images/ch2-q058.png"
+    ]
+  },
+  {
+    "id": "ch3-q001",
+    "chapter": 3,
+    "question_number": 1,
+    "question": "TEENAGE DRIVERS ARE MORE LIKELY TO BE INVOLVED IN A CRASH WHEN:",
+    "choices": {
+      "A": "They are driving with their pet as a passenger",
+      "B": "They are driving with adult passengers",
+      "C": "They are driving with teenage passengers",
+      "D": "They are driving without any passengers"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "They are driving with teenage passengers"
+    }
+  },
+  {
+    "id": "ch3-q002",
+    "chapter": 3,
+    "question_number": 2,
+    "question": "DRIVERS WHO EAT AND DRINK WHILE DRIVING:",
+    "choices": {
+      "A": "Have no driving errors",
+      "B": "Have trouble driving slow",
+      "C": "Are better drivers because they are not hungry",
+      "D": "Have trouble controlling their vehicles"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Have trouble controlling their vehicles"
+    }
+  },
+  {
+    "id": "ch3-q003",
+    "chapter": 3,
+    "question_number": 3,
+    "question": "PREPARING TO SMOKE AND SMOKING WHILE DRIVING:",
+    "choices": {
+      "A": "Do not affect driving abilities",
+      "B": "Help maintain driver alertness",
+      "C": "Are distracting activities",
+      "D": "Are not distracting activities"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Are distracting activities"
+    }
+  },
+  {
+    "id": "ch3-q004",
+    "chapter": 3,
+    "question_number": 4,
+    "question": "THE TOP MAJOR CRASH TYPE FOR 16 YEAR OLD DRIVERS IN PENNSYLVANIA IS:",
+    "choices": {
+      "A": "Single vehicle/run-off-the-road",
+      "B": "Being sideswiped on an interstate",
+      "C": "Driving in reverse on a side street",
+      "D": "Driving on the shoulder of a highway"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Single vehicle/run-off-the-road"
+    }
+  },
+  {
+    "id": "ch3-q005",
+    "chapter": 3,
+    "question_number": 5,
+    "question": "WHEN PASSING A BICYCLIST, YOU SHOULD:",
+    "choices": {
+      "A": "Blast your horn to alert the bicyclist",
+      "B": "Move as far left as possible",
+      "C": "Remain in the center of the lane",
+      "D": "Put on your four-way flashers"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Move as far left as possible"
+    }
+  },
+  {
+    "id": "ch3-q006",
+    "chapter": 3,
+    "question_number": 6,
+    "question": "WHEN YOU DRIVE THROUGH AN AREA WHERE CHILDREN ARE PLAYING, YOU SHOULD EXPECT THEM:",
+    "choices": {
+      "A": "To know when it is safe to cross",
+      "B": "To stop at the curb before crossing the street",
+      "C": "To run out in front of you without looking",
+      "D": "Not to cross unless they are with an adult"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "To run out in front of you without looking"
+    }
+  },
+  {
+    "id": "ch3-q007",
+    "chapter": 3,
+    "question_number": 7,
+    "question": "IF YOU ARE DRIVING BEHIND A MOTORCYCLE, YOU MUST:",
+    "choices": {
+      "A": "Allow the motorcycle to use a complete lane",
+      "B": "Drive on the shoulder beside the motorcycle",
+      "C": "Allow the motorcycle to use only half a lane",
+      "D": "Pass in the same lane where the motorcycle is driving"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Allow the motorcycle to use a complete lane"
+    }
+  },
+  {
+    "id": "ch3-q008",
+    "chapter": 3,
+    "question_number": 8,
+    "question": "WHEN TRAVELING BEHIND A MOTORCYCLE:",
+    "choices": {
+      "A": "Allow a following distance of at least 2 car lengths",
+      "B": "Allow at least 2 seconds of following distance",
+      "C": "Allow at least 4 seconds of following distance",
+      "D": "Allow a following distance of at least 4 motorcycle lengths"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Allow at least 4 seconds of following distance"
+    }
+  },
+  {
+    "id": "ch3-q009",
+    "chapter": 3,
+    "question_number": 9,
+    "question": "YOU NEED TO USE EXTRA CAUTION WHEN DRIVING NEAR A PEDESTRIAN USING A WHITE CANE BECAUSE:",
+    "choices": {
+      "A": "They are deaf",
+      "B": "They have a mental disability",
+      "C": "They are blind",
+      "D": "They have a walking problem"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "They are blind"
+    }
+  },
+  {
+    "id": "ch3-q010",
+    "chapter": 3,
+    "question_number": 10,
+    "question": "WHEN DRIVING NEAR A BLIND PEDESTRIAN WHO IS CARRYING A WHITE CANE OR USING A GUIDE DOG, YOU SHOULD:",
+    "choices": {
+      "A": "Slow down and be prepared to stop",
+      "B": "Take the right-of-way",
+      "C": "Proceed normally",
+      "D": "Drive away quickly"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slow down and be prepared to stop"
+    }
+  },
+  {
+    "id": "ch3-q011",
+    "chapter": 3,
+    "question_number": 11,
+    "question": "WHO MUST YIELD WHEN A DRIVER IS TURNING AND A PEDESTRIAN IS CROSSING WITHOUT",
+    "choices": {
+      "A": "TRAFFIC LIGHT? A. Whoever started last",
+      "B": "The driver",
+      "C": "Whoever is slower",
+      "D": "The pedestrian"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "The driver"
+    }
+  },
+  {
+    "id": "ch3-q012",
+    "chapter": 3,
+    "question_number": 12,
+    "question": "AN ORANGE TRIANGLE ON THE BACK OF A VEHICLE INDICATES THAT VEHICLE:",
+    "choices": {
+      "A": "Carries radioactive materials",
+      "B": "Takes wide turns",
+      "C": "Travels at slower speeds than normal traffic",
+      "D": "Makes frequent stops"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Travels at slower speeds than normal traffic"
+    }
+  },
+  {
+    "id": "ch3-q013",
+    "chapter": 3,
+    "question_number": 13,
+    "question": "AT NIGHT, IT IS HARDEST TO SEE:",
+    "choices": {
+      "A": "Road signs",
+      "B": "Pedestrians",
+      "C": "Other motorists",
+      "D": "Street lights"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Pedestrians"
+    }
+  },
+  {
+    "id": "ch3-q014",
+    "chapter": 3,
+    "question_number": 14,
+    "question": "WHEN A TRUCK DRIVER BEHIND YOU WANTS TO PASS YOUR VEHICLE, YOUR SPEED SHOULD:",
+    "choices": {
+      "A": "Remain steady or decrease",
+      "B": "Change lanes",
+      "C": "Change",
+      "D": "Increase"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Remain steady or decrease"
+    }
+  },
+  {
+    "id": "ch3-q015",
+    "chapter": 3,
+    "question_number": 15,
+    "question": "WHEN SHARING THE ROAD WITH A TRUCK, IT IS IMPORTANT TO REMEMBER THAT, IN GENERAL, TRUCKS:",
+    "choices": {
+      "A": "Take longer distances than cars to stop",
+      "B": "Require less time to pass on a downgrade than cars",
+      "C": "Require less turning radius than cars",
+      "D": "Require less time to pass on an incline than cars"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Take longer distances than cars to stop"
+    }
+  },
+  {
+    "id": "ch3-q016",
+    "chapter": 3,
+    "question_number": 16,
+    "question": "IF YOU STOP AT A RAILROAD CROSSING WITH MORE THAN ONE TRACK:",
+    "choices": {
+      "A": "Wait until you have a clear view of both tracks",
+      "B": "Stop on the railroad track and watch for another train",
+      "C": "Go through as soon as the train passes",
+      "D": "Go through when one of the tracks is free"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Wait until you have a clear view of both tracks"
+    }
+  },
+  {
+    "id": "ch3-q017",
+    "chapter": 3,
+    "question_number": 17,
+    "question": "IF YOU ARE FOLLOWING A TRUCK THAT SWINGS LEFT BEFORE MAKING A RIGHT TURN AT AN INTERSECTION, YOU SHOULD REMEMBER THAT IT IS VERY DANGEROUS TO:",
+    "choices": {
+      "A": "Try to squeeze between the truck and curb to make a right turn",
+      "B": "Apply your brakes until the truck has completed the turn",
+      "C": "Violate the \u201c4 \u2013 second\u201d following distance rule",
+      "D": "Honk your horn at the truck driver"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Try to squeeze between the truck and curb to make a right turn"
+    }
+  },
+  {
+    "id": "ch3-q018",
+    "chapter": 3,
+    "question_number": 18,
+    "question": "THE ONLY TIME YOU DO NOT HAVE TO STOP FOR A SCHOOL BUS WHOSE RED LIGHTS ARE FLASHING AND STOP ARM IS EXTENDED IS WHEN YOU:",
+    "choices": {
+      "A": "Are driving on the opposite side of a divided highway",
+      "B": "Are behind the bus",
+      "C": "See no children present",
+      "D": "Can safely pass on the left"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Are driving on the opposite side of a divided highway"
+    }
+  },
+  {
+    "id": "ch3-q019",
+    "chapter": 3,
+    "question_number": 19,
+    "question": "WHEN A SCHOOL BUS HAS ITS LIGHTS FLASHING AND ITS STOP ARM EXTENDED, YOU MUST:",
+    "choices": {
+      "A": "Stop at least 10 feet away from the bus",
+      "B": "Pass if children have exited the bus",
+      "C": "Stop if the bus is on the opposite side of a barrier",
+      "D": "Drive slowly by the bus"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Stop at least 10 feet away from the bus"
+    }
+  },
+  {
+    "id": "ch3-q020",
+    "chapter": 3,
+    "question_number": 20,
+    "question": "AFTER A TRAIN HAS PASSED, YOU SHOULD:",
+    "choices": {
+      "A": "Check again for approaching trains and proceed with caution",
+      "B": "Wait for a green light",
+      "C": "Proceed across the tracks",
+      "D": "Blow horn and proceed"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Check again for approaching trains and proceed with caution"
+    }
+  },
+  {
+    "id": "ch3-q021",
+    "chapter": 3,
+    "question_number": 21,
+    "question": "IF YOU NEED TO SLOW DOWN OR STOP WHEN OTHER DRIVERS MAY NOT EXPECT IT, YOU SHOULD:",
+    "choices": {
+      "A": "Quickly tap your brake pedal a few times",
+      "B": "Use your emergency brake",
+      "C": "Look over your shoulder for traffic in your blind spot",
+      "D": "Get ready to blow your horn"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Quickly tap your brake pedal a few times"
+    }
+  },
+  {
+    "id": "ch3-q022",
+    "chapter": 3,
+    "question_number": 22,
+    "question": "WHEN YOU ARE PLANNING TO MAKE A TURN, YOU SHOULD ACTIVATE YOUR TURN SIGNALS:",
+    "choices": {
+      "A": "Only if there are other drivers following you",
+      "B": "Just as the front of your car reaches the intersection",
+      "C": "3 to 4 seconds before you reach the intersection",
+      "D": "2 car lengths before reaching the intersection"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "3 to 4 seconds before you reach the intersection"
+    }
+  },
+  {
+    "id": "ch3-q023",
+    "chapter": 3,
+    "question_number": 23,
+    "question": "BEFORE PASSING ANOTHER VEHICLE YOU SHOULD:",
+    "choices": {
+      "A": "Flash your headlights to alert the driver",
+      "B": "Turn on your four-way flashers to warn the driver",
+      "C": "Give the proper turn signal to show you are changing lanes",
+      "D": "Sound your horn to get the drivers attention"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Give the proper turn signal to show you are changing lanes"
+    }
+  },
+  {
+    "id": "ch3-q024",
+    "chapter": 3,
+    "question_number": 24,
+    "question": "YOUR BLIND SPOT IS THE AREA OF THE ROAD:",
+    "choices": {
+      "A": "You cannot see without moving your head",
+      "B": "Directly behind your vehicle",
+      "C": "You see in your rearview mirror",
+      "D": "You see in your side mirror"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "You cannot see without moving your head"
+    }
+  },
+  {
+    "id": "ch3-q025",
+    "chapter": 3,
+    "question_number": 25,
+    "question": "BEFORE PASSING ANOTHER VEHICLE, YOU SHOULD SIGNAL:",
+    "choices": {
+      "A": "Just before changing lanes",
+      "B": "At any time",
+      "C": "After changing lanes",
+      "D": "Early enough so others know your plans"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Early enough so others know your plans"
+    }
+  },
+  {
+    "id": "ch3-q026",
+    "chapter": 3,
+    "question_number": 26,
+    "question": "BEFORE CHANGING LANES ON A MULTI-LANE HIGHWAY YOU SHOULD:",
+    "choices": {
+      "A": "Sound your horn",
+      "B": "Turn on your headlights",
+      "C": "Reduce your speed",
+      "D": "Check your mirrors and blind spots"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Check your mirrors and blind spots"
+    }
+  },
+  {
+    "id": "ch3-q027",
+    "chapter": 3,
+    "question_number": 27,
+    "question": "WHEN YOU PARK ON THE ROADWAY, YOU SHOULD:",
+    "choices": {
+      "A": "Use your four-way flashers",
+      "B": "Park at an angle",
+      "C": "Keep your turn signal on",
+      "D": "Turn your lights on"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Use your four-way flashers"
+    }
+  },
+  {
+    "id": "ch3-q028",
+    "chapter": 3,
+    "question_number": 28,
+    "question": "BEFORE BACKING UP, YOU SHOULD:",
+    "choices": {
+      "A": "Rely on your mirrors to see if it is clear to proceed",
+      "B": "Flash your lights",
+      "C": "Open your door to see if it is clear to proceed",
+      "D": "Turn your head and look through the rear window"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Turn your head and look through the rear window"
+    }
+  },
+  {
+    "id": "ch3-q029",
+    "chapter": 3,
+    "question_number": 29,
+    "question": "TO HELP AVOID CRASHES, YOU SHOULD:",
+    "choices": {
+      "A": "Communicate with other drivers on the road",
+      "B": "Ignore other drivers on the road",
+      "C": "Drive on side streets and back roads",
+      "D": "Avoid driving during rush hour"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Communicate with other drivers on the road"
+    }
+  },
+  {
+    "id": "ch3-q030",
+    "chapter": 3,
+    "question_number": 30,
+    "question": "THE DRIVER IS:",
+    "choices": {
+      "A": "Slowing or stopping",
+      "B": "Turning left",
+      "C": "Turning right",
+      "D": "Opening their door"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slowing or stopping"
+    },
+    "images": [
+      "question_images/ch3-q030.png"
+    ]
+  },
+  {
+    "id": "ch3-q031",
+    "chapter": 3,
+    "question_number": 31,
+    "question": "IF YOUR TURN SIGNALS FAIL, YOU SHOULD USE _____ TO INDICATE YOU ARE TURNING.",
+    "choices": {
+      "A": "Your horn",
+      "B": "Your headlights",
+      "C": "Hand signals",
+      "D": "Your emergency flashers"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Hand signals"
+    }
+  },
+  {
+    "id": "ch3-q032",
+    "chapter": 3,
+    "question_number": 32,
+    "question": "WHEN TRAVELING BELOW 40 MILES PER HOUR ON A LIMITED ACCESS HIGHWAY, YOU SHOULD:",
+    "choices": {
+      "A": "Drive on the shoulder",
+      "B": "Use your high beams",
+      "C": "Sound your horn to warn others",
+      "D": "Use your four-way flashers"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Use your four-way flashers"
+    }
+  },
+  {
+    "id": "ch3-q033",
+    "chapter": 3,
+    "question_number": 33,
+    "question": "YOU SHOULD HONK YOUR HORN WHEN YOU:",
+    "choices": {
+      "A": "Are travelling through an intersection",
+      "B": "Are passing a bicyclist",
+      "C": "See a child who is about to run into the street",
+      "D": "Are parallel parking"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "See a child who is about to run into the street"
+    }
+  },
+  {
+    "id": "ch3-q034",
+    "chapter": 3,
+    "question_number": 34,
+    "question": "YOU MUST USE YOUR HEADLIGHTS WHEN OTHER VEHICLES ARE NOT VISIBLE FROM _____ FEET AWAY.",
+    "choices": {
+      "A": "1000",
+      "B": "1500",
+      "C": "1800",
+      "D": "1200"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "1000"
+    }
+  },
+  {
+    "id": "ch3-q035",
+    "chapter": 3,
+    "question_number": 35,
+    "question": "IF A VEHICLE USING HIGH BEAMS COMES TOWARD YOU, YOU SHOULD:",
+    "choices": {
+      "A": "Turn on your high beams",
+      "B": "Turn off your headlights",
+      "C": "Sound your horn",
+      "D": "Flash your high beams"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Flash your high beams"
+    }
+  },
+  {
+    "id": "ch3-q036",
+    "chapter": 3,
+    "question_number": 36,
+    "question": "IF A VEHICLE USING HIGH BEAMS COMES TOWARD YOU, YOU SHOULD LOOK TOWARDS _____ OF THE ROAD.",
+    "choices": {
+      "A": "Either side",
+      "B": "The center",
+      "C": "The right side",
+      "D": "The left side"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "The right side"
+    }
+  },
+  {
+    "id": "ch3-q037",
+    "chapter": 3,
+    "question_number": 37,
+    "question": "YOU MAY HONK YOUR HORN WHEN YOU:",
+    "choices": {
+      "A": "Have to stop quickly",
+      "B": "Are passing another car",
+      "C": "Have lost control of your car",
+      "D": "Are passing a bicyclist"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Have lost control of your car"
+    }
+  },
+  {
+    "id": "ch3-q038",
+    "chapter": 3,
+    "question_number": 38,
+    "question": "YOUR BRAKE LIGHTS TELL OTHER DRIVERS THAT YOU:",
+    "choices": {
+      "A": "Are making a turn",
+      "B": "Have your emergency brake on",
+      "C": "Are changing lanes",
+      "D": "Are slowing down or stopping"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Are slowing down or stopping"
+    }
+  },
+  {
+    "id": "ch3-q039",
+    "chapter": 3,
+    "question_number": 39,
+    "question": "BEFORE TURNING, YOU SHOULD:",
+    "choices": {
+      "A": "Use your signal",
+      "B": "Turn the wheel",
+      "C": "Increase your speed",
+      "D": "Change lanes"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Use your signal"
+    }
+  },
+  {
+    "id": "ch3-q040",
+    "chapter": 3,
+    "question_number": 40,
+    "question": "THE DRIVER IS:",
+    "choices": {
+      "A": "Turning left",
+      "B": "Slowing",
+      "C": "Stopping",
+      "D": "Turning right"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Turning right"
+    },
+    "images": [
+      "question_images/ch3-q040.png"
+    ]
+  },
+  {
+    "id": "ch3-q041",
+    "chapter": 3,
+    "question_number": 41,
+    "question": "THE DRIVER IS:",
+    "choices": {
+      "A": "Turning left",
+      "B": "Stopping",
+      "C": "Slowing",
+      "D": "Turning right"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Turning left"
+    },
+    "images": [
+      "question_images/ch3-q041.png"
+    ]
+  },
+  {
+    "id": "ch3-q042",
+    "chapter": 3,
+    "question_number": 42,
+    "question": "IF ANOTHER CAR IS IN DANGER OF HITTING YOU, YOU SHOULD:",
+    "choices": {
+      "A": "Sound your horn",
+      "B": "Wave your arms",
+      "C": "Use your emergency lights",
+      "D": "Flash your headlights"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Sound your horn"
+    }
+  },
+  {
+    "id": "ch3-q043",
+    "chapter": 3,
+    "question_number": 43,
+    "question": "IF YOU BEGIN TO FEEL TIRED WHILE DRIVING, THE BEST THING TO DO IS:",
+    "choices": {
+      "A": "Get some coffee",
+      "B": "Open your window",
+      "C": "Stop driving",
+      "D": "Turn on the radio"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Stop driving"
+    }
+  },
+  {
+    "id": "ch3-q044",
+    "chapter": 3,
+    "question_number": 44,
+    "question": "THE EFFECT THAT LACK OF SLEEP HAS ON YOUR SAFE DRIVING ABILITY IS THE SAME AS:",
+    "choices": {
+      "A": "The effect that alcohol has",
+      "B": "The effect that amphetamines have",
+      "C": "The effect that anger has",
+      "D": "The effect that driving with teenagers has"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "The effect that alcohol has"
+    }
+  },
+  {
+    "id": "ch3-q045",
+    "chapter": 3,
+    "question_number": 45,
+    "question": "TEENAGERS SHOULD TRY TO GET AT LEAST ___ OF SLEEP EACH NIGHT TO AVOID THE RISK OF DROWSY DRIVING CRASHES.",
+    "choices": {
+      "A": "7 hours",
+      "B": "6 hours",
+      "C": "8 hours",
+      "D": "9 hours"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "8 hours"
+    }
+  },
+  {
+    "id": "ch3-q046",
+    "chapter": 3,
+    "question_number": 46,
+    "question": "IF ANOTHER DRIVER CUTS YOU OFF IN TRAFFIC, YOU SHOULD:",
+    "choices": {
+      "A": "Pull next to the driver and yell at him or her",
+      "B": "Ignore the other driver",
+      "C": "Flash your high beams at the driver",
+      "D": "Get back at the other driver by cutting him or her off"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Ignore the other driver"
+    }
+  },
+  {
+    "id": "ch3-q047",
+    "chapter": 3,
+    "question_number": 47,
+    "question": "IF SOMEONE IS DRIVING AGGRESSIVELY BEHIND YOU, YOU SHOULD:",
+    "choices": {
+      "A": "Try to get out of the aggressive driver\u2019s way",
+      "B": "Stare at the driver as they are passing you",
+      "C": "Speed up as they are passing you",
+      "D": "Block the passing lane"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Try to get out of the aggressive driver\u2019s way"
+    }
+  },
+  {
+    "id": "ch3-q048",
+    "chapter": 3,
+    "question_number": 48,
+    "question": "FOR AN AVERAGE PERSON, HOW MANY MINUTES DOES THE BODY NEED TO PROCESS THE",
+    "choices": {
+      "A": "LCOHOL IN ONE DRINK? A. 15",
+      "B": "60",
+      "C": "90",
+      "D": "30"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "60"
+    }
+  },
+  {
+    "id": "ch3-q049",
+    "chapter": 3,
+    "question_number": 49,
+    "question": "__________ LIMIT(S) YOUR CONCENTRATION, PERCEPTION, JUDGMENT, AND MEMORY.",
+    "choices": {
+      "A": "Only a blood alcohol level greater than the legal limit",
+      "B": "Alcohol does not",
+      "C": "Even the smallest amount of alcohol",
+      "D": "Only a blood alcohol level greater than .05"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Even the smallest amount of alcohol"
+    }
+  },
+  {
+    "id": "ch3-q050",
+    "chapter": 3,
+    "question_number": 50,
+    "question": "TAKING DRUGS ALONG WITH ALCOHOL:",
+    "choices": {
+      "A": "Increases the risk of causing a crash",
+      "B": "Is no more dangerous than alcohol by itself",
+      "C": "Lessens the effect of alcohol on your ability to drive",
+      "D": "Has no effect on your general driving ability"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Increases the risk of causing a crash"
+    }
+  },
+  {
+    "id": "ch3-q051",
+    "chapter": 3,
+    "question_number": 51,
+    "question": "AS ALCOHOL BUILDS UP IN YOUR BLOOD, IT:",
+    "choices": {
+      "A": "Slows down your reactions",
+      "B": "Makes you feel less confident",
+      "C": "Begins to metabolize itself more quickly",
+      "D": "Decreases your driving errors"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Slows down your reactions"
+    }
+  },
+  {
+    "id": "ch3-q052",
+    "chapter": 3,
+    "question_number": 52,
+    "question": "IF YOUR BLOOD ALCOHOL LEVEL IS .04, YOU:",
+    "choices": {
+      "A": "Are 2 \u2013 7 times more likely to have a crash than a person who has not consumed any",
+      "B": "Are above the legal blood alcohol limit but fine to drive",
+      "C": "Can be very sure that you will drive safely",
+      "D": "Should drink plenty of coffee before getting behind the wheel of your car"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Are 2 \u2013 7 times more likely to have a crash than a person who has not consumed any"
+    }
+  },
+  {
+    "id": "ch3-q053",
+    "chapter": 3,
+    "question_number": 53,
+    "question": "WHEN YOU HEAR A FIRE ENGINE SIREN, YOU MUST:",
+    "choices": {
+      "A": "Slow down until it passes you",
+      "B": "Drive with your flashers on",
+      "C": "Pull over to the side of the road and stop",
+      "D": "Speed up and take the nearest exit"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Pull over to the side of the road and stop"
+    }
+  },
+  {
+    "id": "ch3-q054",
+    "chapter": 3,
+    "question_number": 54,
+    "question": "IF YOU HAVE A TIRE BLOWOUT, YOU SHOULD:",
+    "choices": {
+      "A": "Allow the steering wheel to move freely",
+      "B": "Let the car slow to a stop",
+      "C": "Continue driving until you reach a garage",
+      "D": "Brake hard to stop the car immediately"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Let the car slow to a stop"
+    }
+  },
+  {
+    "id": "ch3-q055",
+    "chapter": 3,
+    "question_number": 55,
+    "question": "IF YOUR CAR BREAKS DOWN ON A HIGHWAY, YOU SHOULD:",
+    "choices": {
+      "A": "Sit in your car and wait for help",
+      "B": "Use your four-way flashers to warn other drivers",
+      "C": "Sound your horn at passing motorists",
+      "D": "Flash your headlights at oncoming traffic"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Use your four-way flashers to warn other drivers"
+    }
+  },
+  {
+    "id": "ch3-q056",
+    "chapter": 3,
+    "question_number": 56,
+    "question": "WHEN YOU SEE AN EMERGENCY VEHICLE WITH FLASHING LIGHTS, YOU MUST:",
+    "choices": {
+      "A": "Slow down and keep moving in your lane",
+      "B": "Keep driving in your lane",
+      "C": "Pull to the curb and stop",
+      "D": "Stop exactly where you are"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Pull to the curb and stop"
+    }
+  },
+  {
+    "id": "ch3-q057",
+    "chapter": 3,
+    "question_number": 57,
+    "question": "WHEN DRIVING ON A ONE WAY STREET AND AN EMERGENCY VEHICLE WITH FLASHING LIGHTS IS BEHIND YOUR CAR, YOU:",
+    "choices": {
+      "A": "Drive with your flashers on",
+      "B": "Drive toward the nearest road side and stop",
+      "C": "Speed up and take the nearest exit",
+      "D": "Slow down until the vehicle passes you"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Drive toward the nearest road side and stop"
+    }
+  },
+  {
+    "id": "ch3-q058",
+    "chapter": 3,
+    "question_number": 58,
+    "question": "AFTER AN EMERGENCY VEHICLE PASSES YOU WITH ITS SIREN ON, YOU MUST:",
+    "choices": {
+      "A": "Drive closely to the police car",
+      "B": "Drive as fast as the police car",
+      "C": "Avoid driving closer than 500 feet behind the emergency vehicle",
+      "D": "Drive near the curb very slowly"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Avoid driving closer than 500 feet behind the emergency vehicle"
+    }
+  },
+  {
+    "id": "ch3-q059",
+    "chapter": 3,
+    "question_number": 59,
+    "question": "CRASHES IN WORK ZONES ARE MOST COMMONLY THE RESULT OF:",
+    "choices": {
+      "A": "Tire blow-outs",
+      "B": "Hydroplaning because of water sprayed on the roadway",
+      "C": "Loss of steering control after driving over wet paint",
+      "D": "Carelessness and speeding"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Carelessness and speeding"
+    }
+  },
+  {
+    "id": "ch3-q060",
+    "chapter": 3,
+    "question_number": 60,
+    "question": "WHEN DRIVING THROUGH A WORK ZONE, IT IS A GOOD SAFETY PRACTICE TO:",
+    "choices": {
+      "A": "Drive close to the vehicle in front of you to keep traffic flowing freely",
+      "B": "Shorten your usual following distance \u2014 by about half",
+      "C": "Turn on your cruise control",
+      "D": "Lengthen your usual following distance \u2014 by double"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Lengthen your usual following distance \u2014 by double"
+    }
+  },
+  {
+    "id": "ch3-q061",
+    "chapter": 3,
+    "question_number": 61,
+    "question": "ON TWO-LANE, TWO-WAY STREETS OR HIGHWAYS, YOU SHOULD START LEFT TURNS:",
+    "choices": {
+      "A": "Close to the center line",
+      "B": "Close to the outside line",
+      "C": "In the center of the lane",
+      "D": "Anywhere in the lane"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Close to the center line"
+    }
+  },
+  {
+    "id": "ch3-q062",
+    "chapter": 3,
+    "question_number": 62,
+    "question": "TO TURN LEFT ON MULTI-LANE STREETS AND HIGHWAYS, YOU SHOULD START FROM:",
+    "choices": {
+      "A": "The middle of the intersection",
+      "B": "The right lane",
+      "C": "The left lane",
+      "D": "Any lane"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "The left lane"
+    }
+  },
+  {
+    "id": "ch3-q063",
+    "chapter": 3,
+    "question_number": 63,
+    "question": "ON A TWO-LANE ROAD, YOU MAY PASS ANOTHER VEHICLE ON THE RIGHT WHEN:",
+    "choices": {
+      "A": "Driving on a single lane entrance ramp",
+      "B": "The driver you are passing is travelling slower than the posted speed limit",
+      "C": "Never",
+      "D": "The driver you are passing is making a left turn"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "The driver you are passing is making a left turn"
+    }
+  },
+  {
+    "id": "ch3-q064",
+    "chapter": 3,
+    "question_number": 64,
+    "question": "TO PASS A SLOWER-MOVING VEHICLE ON A TWO-LANE ROAD YOU MUST:",
+    "choices": {
+      "A": "Not cross the center line",
+      "B": "Flash your lights to oncoming traffic",
+      "C": "Use the shoulder",
+      "D": "Use that lane that belongs to oncoming traffic"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Use that lane that belongs to oncoming traffic"
+    }
+  },
+  {
+    "id": "ch3-q065",
+    "chapter": 3,
+    "question_number": 65,
+    "question": "THESE PAVEMENT MARKINGS TELL YOU THAT AT THE INTERSECTION AHEAD:",
+    "choices": {
+      "A": "Center lane traffic may go straight or turn left",
+      "B": "You can only turn right from the center lane",
+      "C": "The center lane mergers into one lane",
+      "D": "Center lane traffic must turn left"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Center lane traffic may go straight or turn left"
+    },
+    "images": [
+      "question_images/ch3-q065.png"
+    ]
+  },
+  {
+    "id": "ch3-q066",
+    "chapter": 3,
+    "question_number": 66,
+    "question": "THE MOST IMPORTANT THING TO REMEMBER ABOUT SPEED MANAGEMENT AND CURVES IS TO:",
+    "choices": {
+      "A": "Drive at the posted speed limit as you enter the curve, then slow down at the sharpest part of the curve",
+      "B": "Slow down before you enter the curve",
+      "C": "Accelerate gently before you enter the curve",
+      "D": "Drive at the posted speed limit of the roadway, before, throughout, and after the curve"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Slow down before you enter the curve"
+    }
+  },
+  {
+    "id": "ch3-q067",
+    "chapter": 3,
+    "question_number": 67,
+    "question": "DRIVERS ENTERING A ROUNDABOUT OR TRAFFIC CIRCLE:",
+    "choices": {
+      "A": "Must stop before entering",
+      "B": "Must yield to drivers in the roundabout or traffic circle",
+      "C": "Have the right of way if they arrive first",
+      "D": "Have the right of way if there are two lanes"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Must yield to drivers in the roundabout or traffic circle"
+    }
+  },
+  {
+    "id": "ch3-q068",
+    "chapter": 3,
+    "question_number": 68,
+    "question": "THE LAW GIVES _______ THE RIGHT OF WAY AT INTERSECTIONS.",
+    "choices": {
+      "A": "No one",
+      "B": "Drivers turning left",
+      "C": "Drivers going straight",
+      "D": "Drivers turning right"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "No one"
+    }
+  },
+  {
+    "id": "ch3-q069",
+    "chapter": 3,
+    "question_number": 69,
+    "question": "AT AN INTERSECTION WITH A STOP SIGN, YOU SHOULD STOP AND:",
+    "choices": {
+      "A": "Check your rearview mirror for cars tailgating",
+      "B": "Go when the vehicle ahead of you goes",
+      "C": "Look right first, then left, then right again",
+      "D": "Look left first, then right, then left again"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Look left first, then right, then left again"
+    }
+  },
+  {
+    "id": "ch3-q070",
+    "chapter": 3,
+    "question_number": 70,
+    "question": "WHEN ENTERING A HIGHWAY FROM AN ENTRANCE RAMP, YOU SHOULD GENERALLY:",
+    "choices": {
+      "A": "Enter above the speed of traffic to get ahead",
+      "B": "Enter slowly to avoid other vehicles",
+      "C": "Stop first, then slowly enter traffic",
+      "D": "Accelerate to the speed of traffic"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Accelerate to the speed of traffic"
+    }
+  },
+  {
+    "id": "ch3-q071",
+    "chapter": 3,
+    "question_number": 71,
+    "question": "WHEN EXITING A HIGHWAY, YOU SHOULD SLOW DOWN:",
+    "choices": {
+      "A": "On the main road, just before the exit lane",
+      "B": "Once you see the toll booth",
+      "C": "Once you have moved into the exit lane",
+      "D": "When you first see the exit sign"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Once you have moved into the exit lane"
+    }
+  },
+  {
+    "id": "ch3-q072",
+    "chapter": 3,
+    "question_number": 72,
+    "question": "WHEN DRIVING ON A FREEWAY ENTRANCE RAMP, YOU SHOULD LOOK FOR A GAP IN FREEWAY TRAFFIC BY:",
+    "choices": {
+      "A": "Looking in the inside rearview mirror only",
+      "B": "Looking in the sideview mirror only",
+      "C": "Looking in both rearview and sideview mirrors",
+      "D": "Looking in your mirrors and turning your head to look over your shoulder"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Looking in your mirrors and turning your head to look over your shoulder"
+    }
+  },
+  {
+    "id": "ch3-q073",
+    "chapter": 3,
+    "question_number": 73,
+    "question": "IF YOU WANT TO GET OFF OF A FREEWAY, BUT YOU MISSED YOUR EXIT, YOU SHOULD:",
+    "choices": {
+      "A": "Go to the next exit, and get off of the freeway there",
+      "B": "Make a U-turn through the median",
+      "C": "Pull onto the shoulder and back your car to the exit",
+      "D": "Flag down a police officer for an escort back to your exit"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Go to the next exit, and get off of the freeway there"
+    }
+  },
+  {
+    "id": "ch3-q074",
+    "chapter": 3,
+    "question_number": 74,
+    "question": "YOU ARE WAITING TO TURN LEFT AT A MULTILANE INTERSECTION, AND OPPOSING TRAFFIC IS BLOCKING YOUR VIEW, YOU SHOULD:",
+    "choices": {
+      "A": "Accelerate rapidly when the first lane you need to cross is clear",
+      "B": "Wait until you can see all the lanes you need to cross before going ahead with your turn",
+      "C": "Wait for the opposing driver to wave you across the intersection",
+      "D": "Edge your car into each lane of opposing traffic as soon as it clears"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Wait until you can see all the lanes you need to cross before going ahead with your turn"
+    }
+  },
+  {
+    "id": "ch3-q075",
+    "chapter": 3,
+    "question_number": 75,
+    "question": "WHEN NO SIGNS, SIGNALS, OR POLICE TELL YOU WHAT TO DO AT AN INTERSECTION, THE LAW STATES THAT:",
+    "choices": {
+      "A": "Drivers on the right must yield to drivers on the left",
+      "B": "There are no laws stating who must yield",
+      "C": "Drivers going straight must yield to drivers turning left at the intersection",
+      "D": "Drivers turning left must yield to drivers going straight through the intersection"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Drivers turning left must yield to drivers going straight through the intersection"
+    }
+  },
+  {
+    "id": "ch3-q076",
+    "chapter": 3,
+    "question_number": 76,
+    "question": "\u201cHIGHWAY HYPNOSIS\u201d IS A DRIVER CONDITION THAT CAN RESULT FROM:",
+    "choices": {
+      "A": "Staring at the roadway for long periods of time",
+      "B": "Frequent rest stops",
+      "C": "Too much sleep the night before your trip",
+      "D": "Short trips on expressways"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Staring at the roadway for long periods of time"
+    }
+  },
+  {
+    "id": "ch3-q077",
+    "chapter": 3,
+    "question_number": 77,
+    "question": "WHEN PASSING ON A MULTI-LANE HIGHWAY:",
+    "choices": {
+      "A": "Be sure the passing lane is clear",
+      "B": "Pass only on the right",
+      "C": "Watch for oncoming traffic",
+      "D": "There is no need to signal"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Be sure the passing lane is clear"
+    }
+  },
+  {
+    "id": "ch3-q078",
+    "chapter": 3,
+    "question_number": 78,
+    "question": "THE \u201cFOUR-SECOND RULE\u201d REFERS TO HOW ONE SHOULD:",
+    "choices": {
+      "A": "Yield to other cars",
+      "B": "Turn at stop signs",
+      "C": "Follow another car",
+      "D": "Cross an intersection"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Follow another car"
+    }
+  },
+  {
+    "id": "ch3-q079",
+    "chapter": 3,
+    "question_number": 79,
+    "question": "IT IS BEST TO KEEP A SPACE CUSHION:",
+    "choices": {
+      "A": "Only in back of your vehicle",
+      "B": "Only on the left and right side of your vehicle",
+      "C": "Only in front of the vehicle",
+      "D": "On all sides of the vehicle"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "On all sides of the vehicle"
+    }
+  },
+  {
+    "id": "ch3-q080",
+    "chapter": 3,
+    "question_number": 80,
+    "question": "ALLOWING A SPACE CUSHION IS IMPORTANT BECAUSE IT:",
+    "choices": {
+      "A": "Prevents distractions from other vehicles",
+      "B": "Allows you time to react to situations",
+      "C": "Keeps traffic flowing at a safe pace",
+      "D": "Keeps other drivers alert"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Allows you time to react to situations"
+    }
+  },
+  {
+    "id": "ch3-q081",
+    "chapter": 3,
+    "question_number": 81,
+    "question": "ALLOW A LARGER SPACE CUSHION WHEN STOPPING:",
+    "choices": {
+      "A": "On an up-hill",
+      "B": "At an intersection",
+      "C": "At a stop sign",
+      "D": "At a toll plaza"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "On an up-hill"
+    }
+  },
+  {
+    "id": "ch3-q082",
+    "chapter": 3,
+    "question_number": 82,
+    "question": "WHEN MAKING A TURN, YOU MUST _____ YOUR SPEED.",
+    "choices": {
+      "A": "Increase",
+      "B": "Maintain",
+      "C": "Vary",
+      "D": "Reduce"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Reduce"
+    }
+  },
+  {
+    "id": "ch3-q083",
+    "chapter": 3,
+    "question_number": 83,
+    "question": "WHEN DRIVING IN TRAFFIC, IT IS SAFEST TO:",
+    "choices": {
+      "A": "Fluctuate your speed to keep alert",
+      "B": "Drive faster than the flow of traffic",
+      "C": "Drive slower than the flow of traffic",
+      "D": "Drive with the flow of traffic"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Drive with the flow of traffic"
+    }
+  },
+  {
+    "id": "ch3-q084",
+    "chapter": 3,
+    "question_number": 84,
+    "question": "THE MAXIMUM SPEED LIMIT IN THIS STATE IS ____ MILES PER HOUR .",
+    "choices": {
+      "A": "55",
+      "B": "50",
+      "C": "60",
+      "D": "70"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "70"
+    }
+  },
+  {
+    "id": "ch3-q085",
+    "chapter": 3,
+    "question_number": 85,
+    "question": "DRIVE BELOW THE POSTED SPEED LIMIT WHEN:",
+    "choices": {
+      "A": "Anything makes conditions less than perfect",
+      "B": "Others drive below the speed limit",
+      "C": "Entering a highway where there are other cars",
+      "D": "You are on a four lane road"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Anything makes conditions less than perfect"
+    }
+  },
+  {
+    "id": "ch3-q086",
+    "chapter": 3,
+    "question_number": 86,
+    "question": "THE AMOUNT OF SPACE YOU NEED TO CROSS TRAFFIC DEPENDS ON THE:",
+    "choices": {
+      "A": "Road and weather conditions and oncoming traffic",
+      "B": "Presence of a stop sign",
+      "C": "Use of your turn signals",
+      "D": "Cars behind you"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Road and weather conditions and oncoming traffic"
+    }
+  },
+  {
+    "id": "ch3-q087",
+    "chapter": 3,
+    "question_number": 87,
+    "question": "YOUR ABILITY TO STOP IS AFFECTED BY:",
+    "choices": {
+      "A": "Signal lights",
+      "B": "Other cars on the road",
+      "C": "The time of day",
+      "D": "The condition of the road"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "The condition of the road"
+    }
+  },
+  {
+    "id": "ch3-q088",
+    "chapter": 3,
+    "question_number": 88,
+    "question": "WHICH OF THE FOLLOWING IS TRUE ABOUT THE SPEED AT WHICH YOU TRAVEL?",
+    "choices": {
+      "A": "The safe speed to drive depends on many conditions",
+      "B": "Driving slowly is always safer",
+      "C": "The speed limit is always a safe speed",
+      "D": "Accelerating is always dangerous"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "The safe speed to drive depends on many conditions"
+    }
+  },
+  {
+    "id": "ch3-q089",
+    "chapter": 3,
+    "question_number": 89,
+    "question": "TO PREPARE FOR ANYTHING COMING UP IN THE ROAD AHEAD, YOU SHOULD:",
+    "choices": {
+      "A": "Continually scan the entire road and roadsides",
+      "B": "Stare straight ahead at all times",
+      "C": "Drive with your left foot resting lightly on the brake pedal",
+      "D": "Maintain focus toward the middle of the road"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Continually scan the entire road and roadsides"
+    }
+  },
+  {
+    "id": "ch3-q090",
+    "chapter": 3,
+    "question_number": 90,
+    "question": "AT HIGHWAY SPEEDS, ON A DRY ROAD, A SAFE FOLLOWING DISTANCE IS AT LEAST:",
+    "choices": {
+      "A": "3 seconds of following distance from the car ahead of you",
+      "B": "2 seconds of following distance from the car ahead of you",
+      "C": "4 seconds of following distance from the car ahead of you",
+      "D": "2 car lengths of following distance from the car ahead of you"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "4 seconds of following distance from the car ahead of you"
+    }
+  },
+  {
+    "id": "ch3-q091",
+    "chapter": 3,
+    "question_number": 91,
+    "question": "WHAT CAN YOU DO TO AVOID THE NEED TO MAKE EMERGENCY (OR \u201cPANIC\u201d) STOPS WHILE DRIVING IN TRAFFIC?",
+    "choices": {
+      "A": "Honk your horn to make others aware of your presence",
+      "B": "Look ahead and maintain a safe following distance",
+      "C": "Drive in the right lane only",
+      "D": "Drive slower than the flow of traffic"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Look ahead and maintain a safe following distance"
+    }
+  },
+  {
+    "id": "ch3-q092",
+    "chapter": 3,
+    "question_number": 92,
+    "question": "WHEN FACED WITH ONE ONCOMING CAR TO THE LEFT AND A BICYCLIST TO THE RIGHT, YOU SHOULD:",
+    "choices": {
+      "A": "Pull onto the shoulder",
+      "B": "Split the difference",
+      "C": "Let the car pass and then pass the bike",
+      "D": "Pass the bike quickly"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Let the car pass and then pass the bike"
+    }
+  },
+  {
+    "id": "ch3-q093",
+    "chapter": 3,
+    "question_number": 93,
+    "question": "IF AN ONCOMING DRIVER IS HEADING TOWARD YOU IN YOUR LANE, YOU SHOULD:",
+    "choices": {
+      "A": "Steer right, blow your horn, and accelerate",
+      "B": "Steer left, blow your horn, and brake",
+      "C": "Steer right, blow your horn, and brake",
+      "D": "Stay in the center of your lane, blow your horn, and brake"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Steer right, blow your horn, and brake"
+    }
+  },
+  {
+    "id": "ch3-q094",
+    "chapter": 3,
+    "question_number": 94,
+    "question": "IF THE REAR OF YOUR VEHICLE STARTS TO SKID LEFT, YOU SHOULD:",
+    "choices": {
+      "A": "Steer left",
+      "B": "Hit your brakes",
+      "C": "Accelerate",
+      "D": "Steer right"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Steer left"
+    }
+  },
+  {
+    "id": "ch3-q095",
+    "chapter": 3,
+    "question_number": 95,
+    "question": "THE MOST EFFECTIVE THING YOU CAN DO TO REDUCE YOUR RISK OF GETTING INJURED OR KILLED IN A TRAFFIC CRASH IS:",
+    "choices": {
+      "A": "Wear your seat belt",
+      "B": "Limit your driving to week days",
+      "C": "Stay in the right lane on multi-lane highways",
+      "D": "Limit your driving to times between 3:00 p.m. and 6:00 p.m."
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Wear your seat belt"
+    }
+  },
+  {
+    "id": "ch3-q096",
+    "chapter": 3,
+    "question_number": 96,
+    "question": "WHEN DRIVING ON SLICK ROADS, YOU SHOULD:",
+    "choices": {
+      "A": "Take turns more slowly",
+      "B": "Change lanes quickly",
+      "C": "Accelerate quickly",
+      "D": "Brake hard"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Take turns more slowly"
+    }
+  },
+  {
+    "id": "ch3-q097",
+    "chapter": 3,
+    "question_number": 97,
+    "question": "WHICH OF THE FOLLOWING IS TRUE ABOUT DRIVING ON A WET ROADWAY?",
+    "choices": {
+      "A": "As you drive faster, your tires become less effective",
+      "B": "Water does not affect cars with good tires",
+      "C": "Deeper water is less dangerous",
+      "D": "As you decrease your speed, the roadway becomes more slippery"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "As you drive faster, your tires become less effective"
+    }
+  },
+  {
+    "id": "ch3-q098",
+    "chapter": 3,
+    "question_number": 98,
+    "question": "WHEN DRIVING ON SLIPPERY ROADS, YOU SHOULD:",
+    "choices": {
+      "A": "Use alternate routes",
+      "B": "Drive as you would on dry roads",
+      "C": "Increase your following distance",
+      "D": "Avoid crossing bridges or intersections"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Increase your following distance"
+    }
+  },
+  {
+    "id": "ch3-q099",
+    "chapter": 3,
+    "question_number": 99,
+    "question": "WHEN DRIVING ON WET ROADS, YOU SHOULD:",
+    "choices": {
+      "A": "Drive the speed limit",
+      "B": "Drive slightly faster than the speed limit",
+      "C": "Drive 5 to 10 miles below the speed limit",
+      "D": "Stay close to the vehicle ahead"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Drive 5 to 10 miles below the speed limit"
+    }
+  },
+  {
+    "id": "ch3-q100",
+    "chapter": 3,
+    "question_number": 100,
+    "question": "WHEN DRIVING ON WET ROADS, YOU SHOULD:",
+    "choices": {
+      "A": "Increase following distance to 5 or 6 seconds",
+      "B": "Decrease following distance to 2 seconds",
+      "C": "Not be concerned about following distance",
+      "D": "Maintain the 4-second following distance rule"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Increase following distance to 5 or 6 seconds"
+    }
+  },
+  {
+    "id": "ch3-q101",
+    "chapter": 3,
+    "question_number": 101,
+    "question": "ROADS FREEZE MORE QUICKLY WHEN THEY ARE:",
+    "choices": {
+      "A": "Flat",
+      "B": "Curvy",
+      "C": "In the sun",
+      "D": "Shaded"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Shaded"
+    }
+  },
+  {
+    "id": "ch3-q102",
+    "chapter": 3,
+    "question_number": 102,
+    "question": "ROADS BECOME VERY SLIPPERY:",
+    "choices": {
+      "A": "When it has been raining for an hour or more",
+      "B": "The day after it rains",
+      "C": "For the first 10 to 15 minutes of a rain storm",
+      "D": "Right after the rain has stopped"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "For the first 10 to 15 minutes of a rain storm"
+    }
+  },
+  {
+    "id": "ch3-q103",
+    "chapter": 3,
+    "question_number": 103,
+    "question": "HYDROPLANING IS USUALLY CAUSED BY:",
+    "choices": {
+      "A": "Excessive stops",
+      "B": "Sudden stops",
+      "C": "Sudden turns",
+      "D": "Excessive speed"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Excessive speed"
+    }
+  },
+  {
+    "id": "ch3-q104",
+    "chapter": 3,
+    "question_number": 104,
+    "question": "HYDROPLANING CAN BE HELPED BY DRIVING:",
+    "choices": {
+      "A": "Through shallow water",
+      "B": "Faster",
+      "C": "Slower",
+      "D": "Through deep water"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Slower"
+    }
+  },
+  {
+    "id": "ch3-q105",
+    "chapter": 3,
+    "question_number": 105,
+    "question": "WHEN DRIVING IN FOG, YOU SHOULD USE YOUR _________.",
+    "choices": {
+      "A": "Low beam headlights",
+      "B": "High beam headlights",
+      "C": "Parking lights",
+      "D": "Hazard flashers"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Low beam headlights"
+    }
+  },
+  {
+    "id": "ch3-q106",
+    "chapter": 3,
+    "question_number": 106,
+    "question": "COMPARED TO DRIVING DURING THE DAY, DRIVING AT NIGHT IS:",
+    "choices": {
+      "A": "Less dangerous",
+      "B": "No more of less dangerous",
+      "C": "More dangerous",
+      "D": "Easier on your eyes"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "More dangerous"
+    }
+  },
+  {
+    "id": "ch3-q107",
+    "chapter": 3,
+    "question_number": 107,
+    "question": "ANYTHING THAT REQUIRES YOU TO _______ COULD CAUSE YOU TO CRASH.",
+    "choices": {
+      "A": "Take your eyes off the road",
+      "B": "Take your hands off the wheel",
+      "C": "Take your attention away from the driving task",
+      "D": "All of the above"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "All of the above"
+    }
+  },
+  {
+    "id": "ch3-q108",
+    "chapter": 3,
+    "question_number": 108,
+    "question": "DISTRACTED DRIVERS ARE AT A GREATER RISK OF A CRASH WHEN THEY ARE USING WHICH OF THE FOLLOWING:",
+    "choices": {
+      "A": "CD player",
+      "B": "Radio",
+      "C": "Cell phone",
+      "D": "All of the above"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "All of the above"
+    }
+  },
+  {
+    "id": "ch3-q109",
+    "chapter": 3,
+    "question_number": 109,
+    "question": "WHEN YOU ARE IN A LINE OF TRAFFIC THAT IS CROSSING A RAILROAD TRACK THAT HAS NO SIGNALS OR GATES:",
+    "choices": {
+      "A": "You have the right of way and do not need to check for trains",
+      "B": "You may pass slower drivers crossing the track",
+      "C": "You need to make sure there is space to get all the way across the tracks without stopping, before you start to cross",
+      "D": "All of the above"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "You need to make sure there is space to get all the way across the tracks without stopping, before you start to cross"
+    }
+  },
+  {
+    "id": "ch3-q110",
+    "chapter": 3,
+    "question_number": 110,
+    "question": "WHEN APPROACHING A STOPPED SCHOOL BUS WITH ITS RED LIGHTS FLASHING AND ITS STOP ARM EXTENDED, YOU MUST:",
+    "choices": {
+      "A": "Stop 5 feet away from the bus",
+      "B": "Stop only if you see children are present",
+      "C": "Stop and remain stopped until it appears safe to proceed",
+      "D": "Stop and remain stopped until the red lights stop flashing and the stop arm has been withdrawn"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Stop and remain stopped until the red lights stop flashing and the stop arm has been withdrawn"
+    }
+  },
+  {
+    "id": "ch4-q001",
+    "chapter": 4,
+    "question_number": 1,
+    "question": "THE MINIMUM DRINKING AGE IN THIS STATE IS ____ YEARS.",
+    "choices": {
+      "A": "9",
+      "B": "20",
+      "C": "21",
+      "D": "18"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "21"
+    }
+  },
+  {
+    "id": "ch4-q002",
+    "chapter": 4,
+    "question_number": 2,
+    "question": "PEOPLE UNDER 16 YEARS OF AGE WHO USE A FALSE IDENTIFICATION CARD TO BUY",
+    "choices": {
+      "A": "LCOHOL WILL: A. Receive a driving suspension that starts on their 16th birthday",
+      "B": "Not be able to take the driver\u2019s exam until their 21st birthday",
+      "C": "Receive a driving suspension that starts on their 21st birthday",
+      "D": "Be sent to an alcohol safety education class"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "LCOHOL WILL: A. Receive a driving suspension that starts on their 16th birthday"
+    }
+  },
+  {
+    "id": "ch4-q003",
+    "chapter": 4,
+    "question_number": 3,
+    "question": "IF A PERSON UNDER 21 YEARS OLD CONSUMES ALCOHOL, BUT IS NOT DRIVING A MOTOR VEHICLE, THE PENALTY FOR A FIRST OFFENSE IS:",
+    "choices": {
+      "A": "A 90-day driver license suspension and up to a $500 fine",
+      "B": "A 6-month probation",
+      "C": "Sentence to a corrections institution",
+      "D": "Points on the driving record"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "A 90-day driver license suspension and up to a $500 fine"
+    }
+  },
+  {
+    "id": "ch4-q004",
+    "chapter": 4,
+    "question_number": 4,
+    "question": "PARENTAL CONSENT TO CONDUCT BREATH, BLOOD, AND URINE TESTS IS:",
+    "choices": {
+      "A": "Not required",
+      "B": "Required from only one parent",
+      "C": "Required for people under 16 years old",
+      "D": "Required from both parents"
+    },
+    "answer": {
+      "letter": "A",
+      "text": "Not required"
+    }
+  },
+  {
+    "id": "ch4-q005",
+    "chapter": 4,
+    "question_number": 5,
+    "question": "IT IS AGAINST THE LAW FOR ANYONE UNDER THE AGE OF 21 TO ______ ALCOHOL.",
+    "choices": {
+      "A": "Wear clothing advertising",
+      "B": "Be in the presence of",
+      "C": "Consume",
+      "D": "Serve"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Consume"
+    }
+  },
+  {
+    "id": "ch4-q006",
+    "chapter": 4,
+    "question_number": 6,
+    "question": "IT IS AGAINST THE LAW FOR ANYONE UNDER THE AGE OF 21 TO ______ ALCOHOL.",
+    "choices": {
+      "A": "Wear clothing advertising",
+      "B": "Possess",
+      "C": "Serve",
+      "D": "Be in the presence of"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Possess"
+    }
+  },
+  {
+    "id": "ch4-q007",
+    "chapter": 4,
+    "question_number": 7,
+    "question": "IT IS AGAINST THE LAW FOR ANYONE UNDER THE AGE OF 21 TO ______ ALCOHOL.",
+    "choices": {
+      "A": "Serve",
+      "B": "Wear clothing advertising",
+      "C": "Be in the presence of",
+      "D": "Transport"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Transport"
+    }
+  },
+  {
+    "id": "ch4-q008",
+    "chapter": 4,
+    "question_number": 8,
+    "question": "ONE OF THE PENALTIES FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL IS A(N):",
+    "choices": {
+      "A": "5 \u2013 year driver\u2019s license suspension",
+      "B": "$100.00 fine",
+      "C": "Attendance to Alcohol Highway Safety School",
+      "D": "12 \u2013 hour sentence in jail"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Attendance to Alcohol Highway Safety School"
+    }
+  },
+  {
+    "id": "ch4-q009",
+    "chapter": 4,
+    "question_number": 9,
+    "question": "IF YOU ARE ARRESTED FOR DRIVING UNDER THE INFLUENCE OF ALCOHOL AND YOU REFUSE TO TAKE THE BLOOD TEST, YOU WILL RECIEVE A:",
+    "choices": {
+      "A": "Drug counseling treatment",
+      "B": "Sentence of one day in jail",
+      "C": "Driver\u2019s License Suspension",
+      "D": "$300.00 fine"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Driver\u2019s License Suspension"
+    }
+  },
+  {
+    "id": "ch4-q010",
+    "chapter": 4,
+    "question_number": 10,
+    "question": "IF A POLICE OFFICER REQUIRES YOU TO TAKE A BLOOD, BREATH, OR URINE TEST, YOU:",
+    "choices": {
+      "A": "May choose the test you prefer",
+      "B": "Must sign a consent form",
+      "C": "May refuse if underage",
+      "D": "Must take the test, or your license will be suspended"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Must take the test, or your license will be suspended"
+    }
+  },
+  {
+    "id": "ch4-q011",
+    "chapter": 4,
+    "question_number": 11,
+    "question": "FOR A FIRST CONVICTION FOR DRIVING UNDER THE INFLUENCE AT ANY BLOOD ALCOHOL CONCENTRATION LEVEL, YOU COULD:",
+    "choices": {
+      "A": "Lose your license for up to 5 years",
+      "B": "Be required to conduct a public education class on the dangers of drunk driving",
+      "C": "Be required to drive with a restricted occupational license",
+      "D": "Pay a fine of at least $300"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "Pay a fine of at least $300"
+    }
+  },
+  {
+    "id": "ch4-q012",
+    "chapter": 4,
+    "question_number": 12,
+    "question": "IF UNDER 21 YEARS OF AGE YOU ARE CONSIDERED TO BE DRIVING WHILE UNDER THE INFLUENCE IF YOUR BLOOD ALCOHOL LEVEL IS:",
+    "choices": {
+      "A": ".08% or higher",
+      "B": ".10% or higher",
+      "C": ".05% or higher",
+      "D": ".02% or higher"
+    },
+    "answer": {
+      "letter": "D",
+      "text": ".02% or higher"
+    }
+  },
+  {
+    "id": "ch4-q013",
+    "chapter": 4,
+    "question_number": 13,
+    "question": "IF YOU ARE UNDER AGE 21 AND ARE CONVICTED OF DRIVING UNDER THE INFLUENCE OF",
+    "choices": {
+      "A": "LCOHOL, YOU WILL RECEIVE A ____ LICENSE SUSPENSION FOR A FIRST OFFENSE. A. 60-Day",
+      "B": "30-Day",
+      "C": "6-Month",
+      "D": "1-Year"
+    },
+    "answer": {
+      "letter": "D",
+      "text": "1-Year"
+    }
+  },
+  {
+    "id": "ch4-q014",
+    "chapter": 4,
+    "question_number": 14,
+    "question": "IF YOU ARE UNDER AGE 21, AND ARE CONVICTED OF CARRYING A FALSE ID CARD, YOU WILL BE REQUIRED TO PAY A $500 FINE AND YOUR LICENSE WILL BE SUSPENDED FOR 90 DAYS.",
+    "choices": {
+      "A": "Only if your blood alcohol content (BAC) is .02% or higher",
+      "B": "Even if you were not driving",
+      "C": "Only if you were driving at the time of arrest",
+      "D": "Only if your blood alcohol content (BAC) is .02% or higher and you were driving at the time of arrest"
+    },
+    "answer": {
+      "letter": "B",
+      "text": "Even if you were not driving"
+    }
+  },
+  {
+    "id": "ch4-q015",
+    "chapter": 4,
+    "question_number": 15,
+    "question": "THE ZERO TOLERANCE LAW REDUCED THE BLOOD ALCOHOL CONTENT (BAC) FROM .08% TO ____ FOR DRIVERS UNDER 21 TO BE CHARGED WITH DRIVING UNDER THE INFLUENCE.",
+    "choices": {
+      "A": ".02%",
+      "B": ".05%",
+      "C": ".07%",
+      "D": ".00%"
+    },
+    "answer": {
+      "letter": "A",
+      "text": ".02%"
+    }
+  },
+  {
+    "id": "ch4-q016",
+    "chapter": 4,
+    "question_number": 16,
+    "question": "IF YOU ARE STOPPED BY A POLICE OFFICER, YOU SHOULD:",
+    "choices": {
+      "A": "Unbuckle your seat belt and lower your window",
+      "B": "Get your paperwork ready before the officer reaches your car",
+      "C": "Stay in your vehicle with your hands on the steering wheel, and wait for the officer to approach you",
+      "D": "Get out of your car and walk toward the patrol car"
+    },
+    "answer": {
+      "letter": "C",
+      "text": "Stay in your vehicle with your hands on the steering wheel, and wait for the officer to approach you"
+    }
+  }
+]

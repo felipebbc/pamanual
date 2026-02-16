@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PA Driver's Manual Quiz (Ch 2–4)</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>PA Driver's Manual Quiz</h1>
+    <p class="muted">Question bank loaded: <strong id="totalQuestions">…</strong> questions (Chapters 2–4).</p>
+
+    <section class="card">
+      <form id="startForm">
+        <label for="num_questions"><strong>How many questions do you want in this quiz attempt?</strong></label>
+        <input
+          id="num_questions"
+          name="num_questions"
+          type="number"
+          min="1"
+          value="20"
+          required
+        />
+
+        <label class="checkbox">
+          <input id="shuffleChoices" type="checkbox" checked />
+          Shuffle answer choices for each question
+        </label>
+
+        <button type="submit" class="primary">Start Quiz</button>
+      </form>
+
+      <p id="startError" class="danger" style="display:none; margin-top:12px;"></p>
+    </section>
+
+    <section class="card">
+      <h2>How it works</h2>
+      <ul>
+        <li>Each attempt is a random sample (no repeats within an attempt).</li>
+        <li>After each question, you’ll immediately see the correct answer and your score.</li>
+        <li>At the end, you can choose <strong>Review missed questions only</strong> (and repeat until you clear them).</li>
+      </ul>
+      <p class="muted small">
+        Note: This is a <strong>static</strong> app. Your browser downloads <code>question_bank.json</code> and runs the quiz locally.
+      </p>
+    </section>
+
+    <footer class="muted small">
+      <div>Version: <strong id="appVersion">…</strong></div>
+      <div class="small">If you redeploy and your browser seems “stuck” on an older version, do a hard refresh (Ctrl+F5 / Cmd+Shift+R).</div>
+    </footer>
+  </main>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
