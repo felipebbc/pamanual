@@ -11,7 +11,7 @@
   - static/question_images/* (image names/paths)
 */
 
-const APP_VERSION = "2.0.0-static";
+const APP_VERSION = "2.0.1-static";
 
 const SETTINGS_KEY = "pa_quiz_settings";
 
